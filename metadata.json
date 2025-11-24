@@ -1,0 +1,5 @@
+{
+  "name": "Copy of gioco delle palline",
+  "description": "A digital 11x11 board game with colored balls and sliding movement. Players take turns sliding balls to create groups of three or more of the same color to score points. The game supports 2-4 human players.",
+  "requestFramePermissions": []
+}
